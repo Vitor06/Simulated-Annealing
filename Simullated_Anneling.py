@@ -82,5 +82,4 @@ def main():
     plt.legend()
 
     plt.show()
-    print(f(24))
 main()
